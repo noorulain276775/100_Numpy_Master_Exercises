@@ -1,1 +1,1 @@
-# 100_Numpy_Master_Exercises
+# Numpy Exercises
